@@ -7,10 +7,12 @@
 ## 2. Количество тест-кейсов:
 
 Всего было выполнено 34 тест-кейса, которые охватывают различные сценарии использования приложения.
-![1.png](..%2F..%2F..%2F%EF%E8%EA%F7%E8%2F%F0%E5%EF%EE%F0%F2%EC%E4%2F1.png)
+![1](https://github.com/AleksandrEvseevKrd/DiplomaProjectTester/assets/129521999/b51f3626-db12-4831-81ff-f11cd488684e)
+
 
 ## 3. Процент успешных и неуспешных тест-кейсов:
-![2.png](..%2F..%2F..%2F%EF%E8%EA%F7%E8%2F%F0%E5%EF%EE%F0%F2%EC%E4%2F2.png)
+![2](https://github.com/AleksandrEvseevKrd/DiplomaProjectTester/assets/129521999/85115a00-4c85-4371-a637-612d549c874e)
+
 
 ## 4. Общие рекомендации:
 
